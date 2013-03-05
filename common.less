@@ -1,0 +1,76 @@
+﻿/*
+ * This Less file will some common properties
+ */
+
+// Required imports
+@import-once "encoding";
+@import-once "util";
+
+/* --------------------------------------------------------------------------------------------------------------------------------------------------------- */
+/*
+ * Common properties declaration
+ */
+
+ // -----------------------------------------------------------------------------------------------------
+// Images & icons
+img {
+  .no-border();
+}
+
+.icon(@image, @height, @width){
+	background-image: @image;
+	background-repeat: no-repeat;
+	display: block;
+	height: @height;
+	overflow: hidden;
+	text-indent: -99999px;
+	width: @width;
+}
+
+// -----------------------------------------------------------------------------------------------------
+// Size of elements for responsive design
+img, object, embed, audio, video, iframe, canvas {
+  max-width: 100%;
+}
+
+// -----------------------------------------------------------------------------------------------------
+// Layout
+.center {
+	text-align: center;
+}
+
+.left {
+	text-align: left;
+}
+
+.right {
+	text-align: right;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.inline-block {
+	display: inline-block;
+}
+
+// -----------------------------------------------------------------------------------------------------
+// Visibility
+
+.hidden {
+	.hide();
+	.invisible();
+}
+
+.shown {
+	.show();
+	.visible();
+}
+
+
+/* --------------------------------------------------------------------------------------------------------------------------------------------------------- */
