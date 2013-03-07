@@ -2,54 +2,9 @@
 
 Here some commons / utilities files to offers some new functionnalities in your Less files.
 
-## LICENSE ##
-
-PhoneGap is available under *either* the terms of the modified BSD license *or* the
-MIT License (2008). As a recipient of PhonegGap, you may choose which
-license to receive this code under (except as noted in per-module LICENSE
-files). Some modules may not be the copyright of Nitobi.   These
-modules contain explicit declarations of copyright in both the LICENSE files in
-the directories in which they reside and in the code itself. No external
-contributions are allowed under licenses which are fundamentally incompatible
-with the MIT or BSD licenses that PhoneGap is distributed under.
-
-The text of the MIT and BSD licenses is reproduced below. 
-
----
-
-### The "New" BSD License
-
-Copyright (c) 2005-2011, Nitobi Software Inc.
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-  * Redistributions of source code must retain the above copyright notice, this
-    list of conditions and the following disclaimer.
-  * Redistributions in binary form must reproduce the above copyright notice,
-    this list of conditions and the following disclaimer in the documentation
-    and/or other materials provided with the distribution.
-  * Neither the name of Phonegap/Nitobi nor the names of its contributors
-    may be used to endorse or promote products derived from this software
-    without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
----
-
 ### The MIT License
 
-Copyright (c) <2012> <Objet Direct>
+Copyright (c) <2013> <Objet Direct>
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
